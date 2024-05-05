@@ -1,6 +1,7 @@
 [
   {
     "name":"Game_1",
-    "icon":"https://raw.githubusercontent.com/WB-Painel/KeyboardAnimatedEmoji/main/Game/Game_1.gif"
+    "icon":"https://raw.githubusercontent.com/WB-Painel/KeyboardAnimatedEmoji/main/Game/Game_1.gif",
+    "colored":"true"
   }
 ]
